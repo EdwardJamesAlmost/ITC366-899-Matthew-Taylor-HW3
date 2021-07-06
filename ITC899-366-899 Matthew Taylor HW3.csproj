@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ITC899_366_899_Matthew_Taylor_HW3</RootNamespace>
+  </PropertyGroup>
+
+</Project>
